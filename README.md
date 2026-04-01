@@ -8,6 +8,9 @@ This repository contains my daily Python learning journey.
 - Day 2 – Calculator Program
 - Day 3 – Practice Problems
 
+## 📂 Files in this Repository
+- Day 1.py → Basic syntax and introduction
+  
 ## 🛠 Skills
 - Variables & Data Types
 - Lists, Tuples, Strings

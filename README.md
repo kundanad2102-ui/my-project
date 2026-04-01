@@ -1,7 +1,7 @@
 # 💻 Python Full Stack Learning with gen AI Journey – 100 Days
 
 ## About
-This repository contains my daily Python learning journey.
+This repository contains my daily Python learning journey as I learn python and build my foundation for becoming a Software Developer.
 
 ## 📅 Learning Progress
 I am documenting my daily practice and concepts:

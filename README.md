@@ -3,37 +3,76 @@
 ## About
 This repository contains my daily Python learning journey as I learn python and build my foundation for becoming a Software Developer.
 
+---
+
 ## 📅 Learning Progress
+
 I am documenting my daily practice and concepts:
-- Day 1 – Basics
-- Day 2 – Calculator Program
-- Day 3 – Practice Problems
+* **Day1** → Basics of Python
+* **Day2** → Fee Calculator Program
+* **Day3** → Python Programs Practice
+* **Day4** → Loops in Python
+* **Day5** → String Analyzer using Functions
+* **Day6** → User Information Processor (Variables & Type Casting)
+* **Day7** → Practice Programs
+* **Day8** → Strings in Python
+* **Day9** → Tuples
+* **Day10** → Tuples & Advanced Practice
+* **practice1 , practice2** → Additional exercises
+---
 
 ## 📂 Files in this Repository
-- Day 1.py → Basic syntax and introduction
+
+* `Day1.py` → Basic syntax and introduction
+* `Day2.py` → Simple project (Fee Calculator)
+* `Day3.py` → Practice problems
+* `Day4.py` → Loop programs
+* `Day5.py` → Functions + string analysis
+* `Day6.py` → Variables and type casting project
+* `Day7.py` → Practice
+* `Day8.py` → String operations
+* `Day9.py` → Tuples
+* `Day10.py` → Advanced tuple concepts
+* `practice1.py`, `practice2.py` → Additional exercises
+
+---
   
 ## 🛠 Skills
-- Variables & Data Types
-- Lists, Tuples, Strings
-- String Slicing & Methods
-- Loops (for, while)
-- Functions
-- Type Casting
-- Basic Problem Solving
+
+* Variables & Data Types
+* Lists, Tuples, Strings
+* String Slicing & Methods
+* Loops (for, while)
+* Functions
+* Type Casting
+* Basic Problem Solving
+
+---
 
 ## 🎯 Goal
-Become a Python Full Stack Developer by mastering:
-- Python
-- Web Development
-- Databases
-- AI & Machine Learning
+
+My goal is to become a Python Full Stack Developer by mastering:
+* Python
+* Web Development
+* Databases
+* AI & Machine Learning
+
+---
 
 ## 🔮 Future Updates
+
 I will continue updating this repoistory with:
-- More Python concepts
-- Mini projects
-- Real-world applications
+* More Python concepts
+* Mini projects
+* Real-world applications
+
+---
 
 ## 🙌 Connect With Me
+
 Feel free to check my progress and give suggestions!
+
+---
+
+⭐ If you like this repository, don’t forget to star it!
 

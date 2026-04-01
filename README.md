@@ -33,5 +33,4 @@ I will continue updating this repoistory with:
 ## Connect With Me
 Feel free to check my progress and give suggestions!
 
-
-## If you like this repository, don't forget to star it!
+If you like this repository, don't forget to star it!

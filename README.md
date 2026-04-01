@@ -19,6 +19,7 @@ I am documenting my daily practice and concepts:
 * **Day9** → Tuples
 * **Day10** → Tuples & Advanced Practice
 * **practice1 , practice2 , practice3** → Additional exercises
+  
 ---
 
 ## 📂 Files in this Repository
@@ -33,7 +34,7 @@ I am documenting my daily practice and concepts:
 * `Day8.py` → String operations
 * `Day9.py` → Tuples
 * `Day10.py` → Advanced tuple concepts
-* `practice1.py`, `practice2.py` , 'practice3.py' → Additional exercises
+* `practice1.py`, `practice2.py`, `practice3.py` → Additional exercises
 
 ---
   

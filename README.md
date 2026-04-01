@@ -4,6 +4,7 @@
 This repository contains my daily Python learning journey.
 
 ## 📅 Learning Progress
+I am documenting my daily practice and concepts:
 - Day 1 – Basics
 - Day 2 – Calculator Program
 - Day 3 – Practice Problems

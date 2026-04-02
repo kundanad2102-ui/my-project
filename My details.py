@@ -1,6 +1,6 @@
 print("My Name is *Kundana")
 print("Iam from Dr.Lankapalli Bullaya College")
-print("2024 Passedout with 8.7 CGPA")
+print("2024 Passedout with 7.7 CGPA")
 print("       -*-*-*-*-*-*-*    ")
 print("I joined in Codegnan recently to crack the job")
 print("The course is 'Python Full Stack Development' of 100 days")

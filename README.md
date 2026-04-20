@@ -49,6 +49,21 @@ I am documenting my daily practice and concepts:
 * `Day8.py` → String operations
 * `Day9.py` → Tuples
 * `Day10.py` → Advanced tuple concepts
+* `Day11.py` → Dictionaries, sets
+* `Day12.py` → Loops
+* `Day13.py` → Python programs
+* `Day14.py` → Fibanocci series
+* `Day15.py` → Pattern programs
+* `Day16.py` → Functions
+* `Day17.py` → Arguments
+* `Day18.py` → Recursive Functions
+* `Day19.py` → Lambda functions, List Comprehension
+* `Day20.py` → Generators
+* `Day21.py` → Modules
+* `Day22.py` →Speech through text
+* `Day23.py` → OOPS
+* `Day24.py` → Constructor
+* `Day25.py` → Encapsulation
 * `practice1.py`, `practice2.py`, `practice3.py` → Additional exercises
 
 ---

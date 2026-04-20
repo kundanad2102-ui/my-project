@@ -18,6 +18,21 @@ I am documenting my daily practice and concepts:
 * **Day8** → Strings in Python
 * **Day9** → Tuples
 * **Day10** → Tuples & Advanced Practice
+* **Day11** → Dictionaries, sets
+* **Day12** → Loops
+* **Day13** → Python programs
+* **Day14** → Fibanocci series
+* **Day15** → Pattern programs
+* **Day16** → Functions
+* **Day17** → Arguments
+* **Day18** → Recursive Functions
+* **Day19** → Lambda functions, List Comprehension
+* **Day20** → Generators
+* **Day21** → Modules
+* **Day22** →Speech through text
+* **Day23** → OOPS
+* **Day24** → Constructor
+* **Day25** → Encapsulation
 * **practice1 , practice2 , practice3** → Additional exercises
   
 ---

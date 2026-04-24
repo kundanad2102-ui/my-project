@@ -3,16 +3,14 @@
 1.Try Block--->The try block will test a block of code for errors
 try:
     print(b)
-'''
+
 2.Except Block--->This block will take care of any errors
-'''
 try:
     print(b)
 except:
     print("This block can handle error")
-'''
+
 3.Else Block--->to define a block of code to be executed if no error were raised
-'''
 try:
     a=5
     b=9
@@ -31,9 +29,8 @@ except:
     print("Error here")
 else:
     print("No error in the code")
-'''
+
 4.Finally Block---->This block wil execute either try block have any errors or no error
-'''
 try:
     a=5
     b=9
@@ -68,7 +65,7 @@ else:
     print(f"Result = (result)")
 finally:
     print("Program is completed")
-'''   
+'''    
 
 
     

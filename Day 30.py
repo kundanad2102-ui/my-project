@@ -39,11 +39,16 @@ any = open("dummy.txt","r")
 print(any.readline(9))
 any.close()
 
-#3.readlines()-->This method can read the entire file and return into list with each line in one index in the list'''
+#3.readlines()-->This method can read the entire file and return into list with each line in one index in the list
 
 any = open("dummy.txt","r")
 print(any.read())
 print(any.readline())
 print(any.readlines())
 any.close()
+
+
+with open("dummy.txt","r") as any:
+print(any.read())
+
 

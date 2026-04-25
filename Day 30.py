@@ -50,5 +50,5 @@ any.close()
 
 with open("dummy.txt","r") as any:
 print(any.read())
-
+'''
 

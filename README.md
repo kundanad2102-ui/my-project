@@ -33,6 +33,15 @@ I am documenting my daily practice and concepts:
 * **Day23** → OOPS
 * **Day24** → Constructor
 * **Day25** → Encapsulation
+* **Day26** → Inheritance
+* **Day27** → Polymorphism
+* **Day28** → University Management Model
+* **Day29** → Handling Errors
+* **Day30** → File Errors
+* **Day31** → Regular Expression
+* **Day32** → Data Analysis, NumPY, Pandas
+* **Day33** → Bar Graph
+* **PROJECT** → Web Scraping
 * **practice1 , practice2 , practice3** → Additional exercises
   
 ---

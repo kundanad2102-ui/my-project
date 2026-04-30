@@ -64,6 +64,15 @@ I am documenting my daily practice and concepts:
 * `Day23.py` → OOPS
 * `Day24.py` → Constructor
 * `Day25.py` → Encapsulation
+* `Day26.py` → Inheritance
+* `Day27.py` → Polymorphism
+* `Day28.py` → University Management Model
+* `Day29.py` → Handling Errors
+* `Day30.py` → File Errors
+* `Day31.py` → Regular Expression
+* `Day32.py` → Data Analysis, NumPY, Pandas
+* `Day33.py` → Bar Graph
+* `PROJECT.py` → Web Scraping
 * `practice1.py`, `practice2.py`, `practice3.py` → Additional exercises
 
 ---

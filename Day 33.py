@@ -1,4 +1,4 @@
-'''
+#BAR CHART
 import matplotlib.pyplot as plt
 plt.bar([2024,2025,2026],[67,89,50])
 plt.title("Car Sales")
